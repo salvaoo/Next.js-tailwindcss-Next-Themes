@@ -1,3 +1,3 @@
-# NEXT.JS / TAILWIND / NEXT-THEMES
+# ODIXA EVENTS
 
-Next.js project with tailwindcss integrated and next-themes for change between dark and light mode.
+Website
