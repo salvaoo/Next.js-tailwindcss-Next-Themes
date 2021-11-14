@@ -1,3 +1,3 @@
 # NEXT.JS / TAILWIND / NEXT-THEMES
 
-Proyecto vacio de next.js con tailwind integrado y next-themes para cambiar de tema oscuro a claro dependiendo de la configuracion del sistema.
+Next.js project with tailwindcss integrated and next-themes for change between dark and light mode.
