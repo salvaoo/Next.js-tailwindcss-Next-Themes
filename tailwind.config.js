@@ -1,6 +1,6 @@
 module.exports = {
-  mode: 'jit',
-  purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+  // mode: 'jit',
+  content: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
   darkMode: 'class', // or 'media' or 'class'
   theme: {
     extend: {
@@ -13,9 +13,6 @@ module.exports = {
         "4xl": "3000px",
       },
     },
-  },
-  variants: {
-    extend: {},
   },
   plugins: [],
 }
